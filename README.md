@@ -10,11 +10,6 @@ This project aims to analyze cybercrime data to uncover trends, patterns, and in
 - **notebooks/**: Contains Jupyter notebooks for interactive data analysis.
   - **analysis.ipynb**: Notebook for documenting the analysis process with code and markdown cells.
   
-- **src/**: Contains source code for data processing and analysis.
-  - **data_preprocessing.py**: Functions for loading and preprocessing the cybercrime data.
-  - **analysis.py**: Functions for performing statistical analysis on the preprocessed data.
-  - **visualization.py**: Functions for creating visual representations of the analysis results.
-  
 - **requirements.txt**: Lists the Python packages required for the project.
 
 ## Setup Instructions
@@ -29,10 +24,7 @@ This project aims to analyze cybercrime data to uncover trends, patterns, and in
 
 ## Usage
 
-- Use the `data_preprocessing.py` script to load and preprocess the data.
-- Run the `analysis.py` script to perform statistical analysis.
-- Utilize the `visualization.py` script to create visualizations of the results.
-- Document your findings in the `analysis.ipynb` notebook.
+- The complete code and implementation for this projects 'obj1' can be found in the `analysis.ipynb` notebook.
 
 ## Contributing
 
