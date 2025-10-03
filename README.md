@@ -1,6 +1,13 @@
 # Cybercrime Data Analysis Project
 
-This project aims to analyze cybercrime data to uncover trends, patterns, and insights that can help in understanding the nature of cybercrime incidents. The analysis will involve data preprocessing, statistical analysis, and visualization of the results.
+With the rise of AI and Machine Learning, the concern for data and software security is more critical than ever. To build effective defenses, it's essential to analyze historical cyber threats to inform policy decisions and prioritize security interventions.
+
+This project demonstrates an end-to-end data analysis workflow on a simulated dataset of global cybercrimes. The primary objective is to showcase the methodology of data exploration, KPI computation, visualization, and predictive modeling in a controlled environment.
+
+### Dataset
+This analysis uses the Global Cybersecurity Threats Dataset (2015-2024), sourced from Kaggle.
+
+It is important to note that this is a synthetic dataset generated for educational and analytical purposes. While its structure is inspired by real-world sources like the Verizon DBIR and MITRE ATT&CK Framework, it is not based on actual incident data. This makes it an ideal sandbox for testing and demonstrating analytical techniques.
 
 ## Project Structure
 
